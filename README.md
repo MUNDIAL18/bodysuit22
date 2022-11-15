@@ -11,7 +11,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/MUNDIAL18/bodysuit22
-> cd bot-sexy
+> cd bodysuit22
 > npm install
 npm update
 ```
