@@ -1,4 +1,4 @@
-# bot-sexy
+# bot-bodysuit
 
 Simple WhatsApp Bot
 
@@ -10,7 +10,7 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/kevinsit0/bot-sexy
+> git clone https://github.com/MUNDIAL18/bodysuit22
 > cd bot-sexy
 > npm install
 npm update
@@ -64,7 +64,7 @@ npm update
 
 ```bash
 > git clone https://github.com/kevinsit0/bot-sexy
-> cd bot-sexy
+> cd bodysuit22
 > npm install
 npm update
 ```
